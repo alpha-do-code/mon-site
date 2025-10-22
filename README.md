@@ -1,2 +1,2 @@
 # mon-site
-Il s'agit d'un site texte pour débuter avec github
+Il s'agit d'un site test pour débuter avec github
